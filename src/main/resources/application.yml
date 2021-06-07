@@ -1,0 +1,5 @@
+server:
+  port: 8100
+  error:
+    include-message: always
+    include-binding-errors: always
